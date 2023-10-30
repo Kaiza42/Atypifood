@@ -1,0 +1,227 @@
+/* Debut cadre photo plat */
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+
+header {
+    background-color: #F3EDEB;
+}
+body {
+    background-color: #F3EDEB;
+}
+
+
+/* Fin cadre photo plat*/
+
+
+
+
+#boisson1 {
+    background-color: rgb(255, 255, 255);
+    border-radius: 15%;
+}
+#boisson1 {
+    border: 2px solid #025464;
+}
+#boisson1 {
+    height: 320px ;
+width: 320px;
+}
+
+
+#boisson5 {
+    background-color: rgb(255, 255, 255);
+    border-radius: 15%;
+}
+#boisson5 {
+    border: 2px solid #025464;
+}
+#boisson5 {
+    height: 320px ;
+width: 320px;
+    }
+
+
+#boisson9 {
+    background-color: rgb(255, 255, 255);
+    border-radius: 15%;
+}
+#boisson9 {
+    border: 2px solid #025464;
+}
+#boisson9 {
+    height: 320px ;
+width: 320px;
+}
+
+
+
+
+
+
+/* Fin boissons */
+
+
+#platA{
+    display: flex;
+    justify-content: space-evenly;
+margin-top: 70px;
+margin-bottom: 70px;
+
+}
+
+#platB{
+    display: flex;
+    justify-content: space-evenly;
+margin-top: 70x;
+margin-bottom: 70px;
+
+}
+
+#dessertb{
+    display: flex;
+    justify-content: space-evenly;
+margin-top: 70x;
+margin-bottom: 70px;
+
+}
+
+
+
+#boissonA{
+    display: flex;
+    justify-content: space-evenly;
+margin-top: 70px;
+margin-bottom: 70px;
+} 
+
+#boissonB{
+    display: flex;
+    justify-content: space-evenly;
+margin-top: 70px;
+margin-bottom: 70px;
+}
+
+#boissonC{
+    display: flex;
+    justify-content: space-evenly;
+margin-top: 70px;
+margin-bottom: 70px;
+}
+
+#Rondphoto1 {
+    background-color:rgb(255, 255, 255);
+    border-radius: 50%;
+}
+
+#Rondphoto1 {
+    border: 5px double #ffcb14 
+}
+
+
+
+#Rondphoto1 {
+    height: 225px ;
+width: 225px;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

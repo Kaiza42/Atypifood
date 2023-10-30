@@ -1,0 +1,80 @@
+body{
+    background-color: black;
+}
+
+h1 {
+    color: rgb(232, 235, 52);
+    text-align: center;
+    padding-top: 90px;
+}
+h2{
+    color: rgb(232, 235, 52);
+    text-align: center;
+    
+}
+
+#trump{
+    padding-left: 825px;
+    padding-top: 40px;
+}
+#Alex1{
+    padding-left: 750px;
+    padding-top: 40px;
+}
+
+#crime{
+    padding-left: 750px;
+    padding-top: 40px;
+}
+#confiance{
+    padding-left: 750px;
+    padding-top: 40px;
+}
+
+
+#rcLens{
+    display: flex;
+    width: 250px;
+    height: 250px;
+
+
+}
+
+#religion{
+    padding-left: 250px;
+}
+#religion1{
+    padding-left: 250px;
+}
+#religion2{
+    padding-left: 250px;
+}
+
+
+#Flamme{
+    display: flex;
+    bottom: 100%;
+    width: 1894px;
+    height: 600px;  
+    background-color: black;
+    transform : rotate(180deg) ;
+}
+
+#Flamme2{
+    display: flex;
+    bottom: 100%;
+    width: 1894px;
+    height: 600px;  
+    background-position: 500px;
+    background-color: black;
+}
+
+#leChien{
+    padding-left: 830px;
+    padding-top: 40px;
+}
+.presentation{
+    display: flex;
+    width: 400px;
+    height: 450px;
+}
